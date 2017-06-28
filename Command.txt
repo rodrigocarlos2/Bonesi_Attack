@@ -1,0 +1,4 @@
+
+sudo bonesi 200.137.162.73:80
+
+The attacked IP is: 200.137.162.73 on port 80.
